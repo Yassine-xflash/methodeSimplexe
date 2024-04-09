@@ -20,9 +20,9 @@ Ouvrez le projet dans MATLAB et lancez l’App Designer pour démarrer l’appli
 ## Utilisation
 Une fois que vous avez ouvert le projet dans MATLAB :
 
-- Naviguez vers l’App Designer.
-- Ouvrez le fichier SimplexApp.mlapp.
-- Exécutez l’application pour commencer à résoudre des problèmes de programmation linéaire.
+1. Naviguez vers l’App Designer.
+2. Ouvrez le fichier SimplexApp.mlapp.
+3. Exécutez l’application pour commencer à résoudre des problèmes de programmation linéaire.
 
 ## Contribuer
 Les contributions pour améliorer la fonctionnalité ou l’utilisabilité de l’application sont les bienvenues. N’hésitez pas à forker le dépôt, à apporter des modifications et à soumettre une pull request.
