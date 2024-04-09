@@ -1,0 +1,16 @@
+Salam Alikoum,
+
+Ce document fournit une explication succincte de l'application et aborde certains problèmes rencontrés :
+
+- **Durée de développement** : La conception et l'apprentissage du fonctionnement ainsi que le design de l'application ont nécessité une durée totale de six jours.
+- **Entrée de la matrice A** : Il existe deux méthodes pour saisir la matrice A :
+  - Directement dans les trois champs de saisie prévus à cet effet.
+  - Pour les matrices de plus de trois lignes, il est recommandé de créer un fichier Excel et de l'enregistrer avec l'extension `.xls`.(voir fichier test.xls comme example)
+
+Lors de l'utilisation de cette dernière méthode, vous observerez une fermeture et une réouverture de l'application. Ce comportement est programmé et la fermeture est due à un problème dans MATLAB lors de l'importation des données de cette manière.
+
+- **Bouton 'Afficher'** : Son objectif est de visualiser le tableau initial si les données ont été saisies dans les champs prévus. Dans le cas contraire, si les données sont importées, le tableau s'affichera automatiquement.
+- **Bouton 'Effacer'** : Il permet de vider les champs de saisie.
+- **Bouton 'Résoudre'** : Il a pour but de résoudre le problème en utilisant la méthode du simplexe développée et d'afficher le vecteur solution ainsi que la valeur de la solution objectif.
+
+Merci .
