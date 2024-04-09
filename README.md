@@ -14,7 +14,7 @@ Pour commencer avec ce projet, clonez le dépôt sur votre machine locale et ouv
 ```bash
 git clone https://github.com/Yassine-xflash/methodeSimplexe.git
 cd methodeSimplexe
-
+```
 Ouvrez le projet dans MATLAB et lancez l’App Designer pour démarrer l’application.
 
 ## Utilisation
