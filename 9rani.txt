@@ -13,4 +13,4 @@ Lors de l'utilisation de cette dernière méthode, vous observerez une fermeture
 - **Bouton 'Effacer'** : Il permet de vider les champs de saisie.
 - **Bouton 'Résoudre'** : Il a pour but de résoudre le problème en utilisant la méthode du simplexe développée et d'afficher le vecteur solution ainsi que la valeur de la solution objectif.
 
-Merci .
+Merci tout le monde.
